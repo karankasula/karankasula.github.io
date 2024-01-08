@@ -1,1 +1,3 @@
-# karankasula.github.io
+# myPortfolio
+
+Copy index.html to browser to view the portfolio
